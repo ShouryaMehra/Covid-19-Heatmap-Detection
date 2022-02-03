@@ -1,0 +1,10 @@
+flask==1.1.2
+python-dotenv==0.18.0
+scipy
+numpy
+opencv-python
+Pillow==2.2.1
+imutils
+seaborn
+matplotlib
+pandas
